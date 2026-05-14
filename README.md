@@ -40,9 +40,9 @@ Unlike traditional compartmental models that use ordinary differential equations
 ##  Key Features
 
 ### 1. Advanced Epidemiological Engine
-* **SEIR-V Multi-State Dynamics:** Tracks transitions between Susceptible, Exposed (latent period), Infectious (symptomatic/asymptomatic), Recovered (acquired immunity), Deceased, and Vaccinated states.
-* **Viral Mutation Logic:** Simulation of genetic drift where the virus can evolve higher transmission or mortality rates over time.
-* **Hospital Pressure System:** Real-time monitoring of healthcare capacity. If infections exceed the `Hospital Capacity` threshold, mortality rates increase dynamically to simulate system collapse.
+* **SEIR-V Multi-State Dynamics:** Tracks transitions between Susceptible , Exposed (latent period), Infectious (symptomatic/asymptomatic), Recovered (acquired immunity), Deceased, and Vaccinated states .
+* **Viral Mutation Logic:** Simulation of genetic drift where the virus can evolve higher transmission or mortality rates over time .
+* **Hospital Pressure System:** Real-time monitoring of healthcare capacity. If infections exceed the `Hospital Capacity` threshold, mortality rates increase dynamically to simulate system collapse .
 
 ### 2. Interactive Graphical User Interface (GUI)
 * **Dynamic Control Panel:** Built with `CustomTkinter`, offering a modern, dark-themed dashboard.
