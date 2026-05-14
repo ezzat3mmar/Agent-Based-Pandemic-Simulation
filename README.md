@@ -117,4 +117,3 @@ pip install customtkinter numpy matplotlib pandas openpyxl scipy Pillow
 **Clone the repository:**
    ```bash
    git clone https://github.com/ezzat3mmar/Agent-Based-Pandemic-Simulation.git
-cd Agent-Based-Pandemic-Simulation
