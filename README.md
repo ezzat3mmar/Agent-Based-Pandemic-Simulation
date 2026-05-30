@@ -35,7 +35,7 @@ The project follows a modular design to separate the UI logic from the mathemati
        |       (Live Matplotlib Plots & Statistics)      |
        +-------------------------------------------------+
 ```
-Unlike traditional compartmental models that use ordinary differential equations to represent population averages, this simulation treats every individual as an autonomous **"Agent"** with unique spatial coordinates, velocity, and health states. This allows for the emergence of complex patterns such as localized outbreaks, the impact of "superspreaders," and the effectiveness of vaccination campaigns in a stochastic environment.
+-Unlike traditional compartmental models that use ordinary differential equations to represent population averages, this simulation treats every individual as an autonomous **"Agent"** with unique spatial coordinates, velocity, and health states. This allows for the emergence of complex patterns such as localized outbreaks, the impact of "superspreaders," and the effectiveness of vaccination campaigns in a stochastic environment.
 
 ##  Key Features
 
